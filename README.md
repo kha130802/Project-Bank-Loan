@@ -23,3 +23,7 @@ Through data exploration, I identified several critical patterns:
 
 ## 🛠 IV. Keywords & Skills
 `#DataAnalytics` `#ExcelDashboard` `#BankingSector` `#BusinessIntelligence` `#PowerQuery` `#DataVisualization`
+## V. Dashboard
+<img width="1124" height="558" alt="image" src="https://github.com/user-attachments/assets/7f9686b2-1407-4b67-be4b-040889815b58" />
+
+<img width="1157" height="579" alt="image" src="https://github.com/user-attachments/assets/9d3eb0db-452c-440b-bb06-2fd0f49829bb" />
